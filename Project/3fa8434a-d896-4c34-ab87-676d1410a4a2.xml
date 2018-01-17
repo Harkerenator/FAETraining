@@ -7,5 +7,7 @@ _EN=Variables
 ++D=BOOL	N=StopPushButton	G=VAR
 ++D=BOOL	N=TestBit	G=VAR
 ++D=BOOL	N=Lamp	G=VAR
+++D=BOOL	N=MotorOverLoad	G=VAR
+++D=BOOL	N=MotorOK	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
 ++D=MYSTRUCT	N=IansSturcture	G=VAR_EXTERNAL
